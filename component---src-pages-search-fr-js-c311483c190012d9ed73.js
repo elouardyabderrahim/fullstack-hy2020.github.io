@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[44],{vh9U:function(e,n,r){"use strict";r.r(n),r.d(n,"pageQuery",(function(){return u}));var t=r("q1tI"),a=r.n(t),c=r("D9jW"),u="1027993476";n.default=function(e){var n=e.data;return a.a.createElement(c.a,{localSearch:n.localSearchFinnish,title:"Rechercher du contenu",inputPlaceholder:"Entrez un terme de recherche",lang:"fr"})}}}]);
+//# sourceMappingURL=component---src-pages-search-fr-js-c311483c190012d9ed73.js.map

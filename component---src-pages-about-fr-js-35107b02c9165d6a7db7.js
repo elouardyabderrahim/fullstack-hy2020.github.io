@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{A9Vp:function(n,t,e){"use strict";e.r(t);var o=e("q1tI"),a=e.n(o),p=e("Q7S0");t.default=function(){return a.a.createElement(p.a,{lang:"fr",title:"À propos du cours | Full Stack open 2022"})}}}]);
+//# sourceMappingURL=component---src-pages-about-fr-js-35107b02c9165d6a7db7.js.map
